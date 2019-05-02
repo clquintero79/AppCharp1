@@ -8,7 +8,7 @@ namespace AppCharp1
         static void Main(string[] args)
         {
             int edad = 5;
-            string nombre;
+            string nombre, ape,ciudad;
             var pelicula = "EndGame";
             Console.WriteLine("Introduzca su nombre");
             nombre = Console.ReadLine();
