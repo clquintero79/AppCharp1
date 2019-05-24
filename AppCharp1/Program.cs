@@ -15,6 +15,7 @@ namespace AppCharp1
             Console.WriteLine($"Bienvenido {nombre} tienes {edad} años");
             Console.WriteLine($"Próximo estreno {pelicula} 25 de abril ");
             Console.WriteLine($"Esto lo hice desde la cuenta lorenaquint@gmail.com");
+            Console.WriteLine($"Ahora si estoy haciendo esto desde lorenquint@gmail.com");
             Console.ReadLine();
         }
     }
